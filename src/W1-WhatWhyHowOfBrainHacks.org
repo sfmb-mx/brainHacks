@@ -1,0 +1,114 @@
+#+TITLE:         W1 The what, why and how of Brainhacks
+#+AUTHOR:        Sergio-Feliciano Mendoza-Barrera
+#+DRAWERS:       sfmb
+#+EMAIL:         s.f.m@ieee.org
+#+DATE:          28/08/2017
+#+DESCRIPTION:   The Online Brain Intensive is an online course aimed at preparing students to participate in their first Brainhack.
+#+KEYWORDS:      R, data science, emacs, ESS, org-mode, deep learning, python
+#+LANGUAGE:      en
+#+OPTIONS:       H:10 num:t toc:nil \n:nil @:t ::t |:t ^:{} -:t f:t *:t <:t d:HIDDEN
+#+OPTIONS:       TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS:       LaTeX:dvipng
+#+INFOJS_OPT:    view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:
+#+LINK_HOME:
+#+XSLT:
+#+STYLE: <link rel="stylesheet" type="text/css" href="dft.css"/>
+
+#+LaTeX_CLASS: IEEEtran
+#+LATEX_CLASS_OPTIONS: [letterpaper, 9pt, onecolumn, twoside, technote, final]
+#+LATEX_HEADER: \usepackage[USenglish]{babel}
+#+LATEX_HEADER: \hyphenation{do-cu-ment}
+#+LATEX_HEADER: \usepackage{minted}
+#+LATEX_HEADER: \usepackage{makeidx}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[ttdefault=true]{AnonymousPro}
+#+LATEX_HEADER: \renewcommand*\familydefault{\ttdefault} %% Only if the base font of the document is to be typewriter style
+#+LATEX_HEADER: \usepackage[libertine,bigdelims]{newtxmath}
+#+LATEX_HEADER: \usepackage[cal=boondoxo,bb=boondox,frak=boondox]{mathalfa}
+#+LATEX_HEADER: \useosf % change normal text to use proportional oldstyle figures
+
+#+LATEX_HEADER: \markboth{W1 The what, why and how of Brainhacks}%
+#+LATEX_HEADER: {Sergio-Feliciano Mendoza-Barrera}
+
+#+LATEX_HEADER: \newcommand{\degC}{$^\circ$C{}}
+
+#+STYLE: <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
+
+#+ATTR_HTML: width="500px"
+
+# -*- mode: org; -*-
+#+OPTIONS:   toc:2
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/readtheorg/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/readtheorg/css/readtheorg.css"/>
+
+#+HTML_HEAD: <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+#+HTML_HEAD: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/lib/js/jquery.stickytableheaders.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/readtheorg/js/readtheorg.js"></script>
+
+#+BEGIN_ABSTRACT
+The Online Brain Intensive is an online course aimed at preparing
+students to participate in their first Brainhack.  Through this course
+students will learn to use openly available online tools to gain a
+foundation of technical knowledge for neuroimaging and computational
+neuroscience, with a strong focus on reproducibility and version
+control.  This course is free, fully online and open to anyone who
+wants to participate.
+#+END_ABSTRACT
+
+* Week 1 Syllabus
+
+Project: Run Docker pulled from git that runs Jupyter notebook with
+analysis, and modify a classifier.
+
+Takeaway: Students should understand how to do basic reproducible
+science.
+
+1. Topic Specialist: Git / Python
+2. Topic Specialist : Shell Scripting
+
+
+** Introduction to Brainhacks
+
+Cameron Craddock, Child Mind Institute
+
+[[yt:_5WigePKbUE]]
+
+[[https://youtu.be/_5WigePKbUE][Link here]]
+
+*** Slides
+
+[[../graphs/S1T1-WhatIsBrainHack.png]]
+
+** Brainhack 101
+
+Greg Kair, Mcgill University
+
+[[yt:ufP_rdozcao]]
+
+[[https://youtu.be/ufP_rdozcao][Link here]]
+
+*** Slides
+
+[[https://brainhack101.github.io/#/title][Brainhack 101]] slides
+
+** Reproducibility in brain science
+
+Kirstie Whitaker, Cambridge University
+
+* Update
+
+#+begin_src julia :session :results output :exports all
+  println(":: Update! ::")
+#+end_src
+
+#+RESULTS:
+: :: Update! ::
+
+* References
+
+- https://www.reddit.com/r/learnpython/comments/6tfyg4/whyhow_does_this_trick_to_flatten_a_matrix_x_work/
