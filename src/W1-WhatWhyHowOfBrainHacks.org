@@ -84,6 +84,46 @@ Cameron Craddock, Child Mind Institute
 
 [[../graphs/S1T1-WhatIsBrainHack.png]]
 
+[[../graphs/S1T1-WhatHappens.png]]
+
+[[../graphs/S1T1-Hackathon.png]]
+
+[[../graphs/S1T1-Hackathon2.png]]
+
+[[../graphs/S1T1-Hackathon3.png]]
+
+[[../graphs/S1T1-Hackathon4.png]]
+
+[[../graphs/S1T1-Hackathon5.png]]
+
+[[../graphs/S1T1-Hackathon6.png]]
+
+[[../graphs/S1T1-Hackathon7.png]]
+
+[[../graphs/S1T1-Hackathon8.png]]
+
+[[../graphs/S1T1-Hackathon8.png]]
+
+[[../graphs/S1T1-Hackathon9.png]]
+
+- [[http://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0][Journal Repository]]
+
+[[../graphs/S1T1-Hackathon10.png]]
+
+[[../graphs/S1T1-Hackathon11.png]]
+
+[[../graphs/S1T1-Hackathon12.png]]
+
+** Reproducibility in brain science
+
+Kirstie Whitaker, Cambridge University
+
+[[yt:NDNYPDm1-2c]]
+
+[[https://youtu.be/NDNYPDm1-2c][Link here]]
+
+
+
 ** Brainhack 101
 
 Greg Kair, Mcgill University
@@ -92,13 +132,12 @@ Greg Kair, Mcgill University
 
 [[https://youtu.be/ufP_rdozcao][Link here]]
 
-*** Slides
+*** Resources
 
-[[https://brainhack101.github.io/#/title][Brainhack 101]] slides
-
-** Reproducibility in brain science
-
-Kirstie Whitaker, Cambridge University
+- [[https://brainhack101.github.io/#/title][Brainhack 101]] slides
+- [[https://github.com/brainhack101][Github repo]]
+- [[https://github.com/brainhack101/scratch-the-dura][Scratch the Dura repo]]
+- [[https://brainhack101.github.io/deepbrainhack2017/][Deep Brainhack 2017]]
 
 * Update
 
@@ -112,3 +151,5 @@ Kirstie Whitaker, Cambridge University
 * References
 
 - https://www.reddit.com/r/learnpython/comments/6tfyg4/whyhow_does_this_trick_to_flatten_a_matrix_x_work/
+- https://github.com/kirstiejane/reproducibleresearch
+- doi: https://dx.doi.org/10.6084/m9.figshare.53504I4

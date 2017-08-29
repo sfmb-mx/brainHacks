@@ -1,0 +1,3 @@
+[submodule "src/ReproducibleResearch"]
+	path = src/ReproducibleResearch
+	url = https://github.com/KirstieJane/ReproducibleResearch.git
