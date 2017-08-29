@@ -134,7 +134,7 @@ research. A few general recommendations for the structure and naming
 of the resource-directory are to include the following kind of files
 and subdirectories:
 
-- A *readme- file with:
+- A *readme* file with:
 
     + Title, author(s) and abstract of the paper
     + An email address where to be contacted
