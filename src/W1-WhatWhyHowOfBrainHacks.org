@@ -60,7 +60,7 @@ control.  This course is free, fully online and open to anyone who
 wants to participate.
 #+END_ABSTRACT
 
-* Week 1 Syllabus
+* Week 1
 
 Project: Run Docker pulled from git that runs Jupyter notebook with
 analysis, and modify a classifier.
@@ -121,6 +121,8 @@ Kirstie Whitaker, Cambridge University
 [[yt:NDNYPDm1-2c]]
 
 [[https://youtu.be/NDNYPDm1-2c][Link here]]
+
+The [[file:ReproducibleResearch/PRESENTATIONS/Whitaker_ICON_August2017.pdf][slides are here]].
 
 
 
