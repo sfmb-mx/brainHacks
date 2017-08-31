@@ -134,10 +134,15 @@ Greg Kair, Mcgill University
 
 *** Resources
 
+- [[https://guides.github.com][Github guides]]
 - [[https://brainhack101.github.io/#/title][Brainhack 101]] slides
 - [[https://github.com/brainhack101][Github repo]]
 - [[https://github.com/brainhack101/scratch-the-dura][Scratch the Dura repo]]
 - [[https://brainhack101.github.io/deepbrainhack2017/][Deep Brainhack 2017]]
+
+* Talk 1
+
+This is the [[https://hangouts.google.com/call/hi6novyymrdihk6fgffxph6ytyu][Hangouts]] video.
 
 * Update
 

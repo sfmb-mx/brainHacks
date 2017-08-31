@@ -1,3 +1,9 @@
 [submodule "src/ReproducibleResearch"]
 	path = src/ReproducibleResearch
 	url = https://github.com/KirstieJane/ReproducibleResearch.git
+[submodule "src/test_repo"]
+	path = src/test_repo
+	url = https://github.com/ronimaimon/test_repo.git
+[submodule "src/brainintensive"]
+	path = src/brainintensive
+	url = https://github.com/ronimaimon/brainintensive.git
