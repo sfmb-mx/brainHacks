@@ -144,6 +144,18 @@ Greg Kair, Mcgill University
 
 This is the [[https://hangouts.google.com/call/hi6novyymrdihk6fgffxph6ytyu][Hangouts]] video.
 
+** Tutorials
+
+*** Bash
+
+[[yt:hwrnmQumtPw]]
+
+[[https://youtu.be/hwrnmQumtPw][Link here]]
+
+*** Awk
+
+[[http://blog.jpalardy.com/posts/awk-tutorial-part-1][Awk Tutorial, part 1 | Jonathan Palardy's Blog]]
+
 * Update
 
 #+begin_src julia :session :results output :exports all
